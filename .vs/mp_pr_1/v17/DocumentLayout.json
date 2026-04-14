@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "D:\\Unity1\\mp_pr_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|d:\\unity1\\mp_pr_1\\assets\\scripts\\playernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|d:\\unity1\\mp_pr_1\\assets\\scripts\\debuggui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\debuggui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\pickupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playeruidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeruidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\connectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|D:\\Unity1\\mp_pr_1\\assets\\scripts\\playernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB56EB3-AA04-D51B-928A-1B3456624590}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +58,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugGUI.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\DebugGUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DebugGUI.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\DebugGUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DebugGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:18:49.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCamera.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCamera.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAcwOUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:34:31.457Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerNetwork.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerNetwork.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerNetwork.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerNetwork.cs",
+              "ViewState": "AQIAACoDAAAAAAAAAAAmwDkDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:27:32.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerCombat.cs",
               "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerCombat.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat.cs",
               "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerCombat.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerCombat.cs",
-              "ViewState": "AQIAAMYAAAAAAAAAAAAcwNMAAAAsAAAA",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAcwN8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T07:44:48.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T07:44:48.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PickupManager.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PickupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupManager.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PickupManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickupManager.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAqwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:39:02.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthPickup.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\HealthPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthPickup.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\HealthPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthPickup.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:38:13.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAcwLkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:35:15.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAmwMUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:33:40.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerUIDisplay.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerUIDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerUIDisplay.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerUIDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerUIDisplay.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwF4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:40:01.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAwGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:36:18.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PlayerView.cs",
               "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerView.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerView.cs",
@@ -55,19 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerNetwork.cs",
-              "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerNetwork.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerNetwork.cs",
-              "ToolTip": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\PlayerNetwork.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerNetwork.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAowEMAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T07:27:32.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ConnectionUI.cs",
               "DocumentMoniker": "D:\\Unity1\\mp_pr_1\\Assets\\Scripts\\ConnectionUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ConnectionUI.cs",

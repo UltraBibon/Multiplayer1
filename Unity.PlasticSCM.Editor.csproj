@@ -95,8 +95,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Views\Merge\Developer\DirectoryConflicts\MovedEvilTwinMenu.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Developer\GenericProgress.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\UI\DockEditorWindow.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Developer\ShelvedChangesNotification.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\AssetsUtils\Processor\UVCSAssetsProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Developer\ShelvedChangesNotification.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\AssetOverlays\Cache\BuildPathDictionary.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Views\Branch\BranchListViewItem.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\UVCSToolbar\PopupWindow\UncontrolledPopupWindow.cs" />
@@ -364,8 +364,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\UI\ThreadWaiterRegistry.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Views\PendingChanges\PendingChangesTreeView.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Hub\ProcessHubCommand.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\AssetMenu\AssetsSelection.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\UVCSToolbar\ToolbarController.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\AssetMenu\AssetsSelection.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\AssetOverlays\AssetStatus.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Views\Merge\DrawMergeOverview.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@e566cd3e7623\Editor\Settings\ShelveAndSwitchOptionsFoldout.cs" />

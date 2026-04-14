@@ -20,7 +20,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <NoWarn>0169;USG0001</NoWarn>
-    <DefineConstants>UNITY_6000_0_43;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;COM_UNITY_MODULES_ANIMATION;COM_UNITY_MODULES_PHYSICS;COM_UNITY_MODULES_PHYSICS2D;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
+    <DefineConstants>UNITY_6000_0_43;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;MULTIPLAYER_TOOLS;COM_UNITY_MODULES_ANIMATION;COM_UNITY_MODULES_PHYSICS;COM_UNITY_MODULES_PHYSICS2D;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -61,29 +61,28 @@
     <Analyzer Include="E:\UNITY\HMM\6000.0.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Analytics\NetworkManagerAnalytics.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkRigidbodyBaseEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Analytics\AnalyticsHandler.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Analytics\NetworkManagerAnalyticsHandler.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\AssemblyInfo.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkManagerRelayIntegration.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetcodeEditorBase.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkManagerEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkBehaviourEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkTransformEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Configuration\NetcodeSettingsProvider.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Configuration\NetworkPrefabsEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Configuration\NetworkPrefabProcessor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Configuration\NetcodeForGameObjectsProjectSettings.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Configuration\NetcodeForGameObjectsSettings.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkAnimatorParameterEntryDrawer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkObjectEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\NetworkManagerHelper.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\HiddenScriptEditor.cs" />
-    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Analytics\NetcodeAnalytics.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Analytics\NetworkManagerAnalytics.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkRigidbodyBaseEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Analytics\AnalyticsHandler.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Analytics\NetworkManagerAnalyticsHandler.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\AssemblyInfo.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetcodeEditorBase.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkManagerEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkBehaviourEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkTransformEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Configuration\NetcodeSettingsProvider.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Configuration\NetworkPrefabsEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Configuration\NetworkPrefabProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Configuration\NetcodeForGameObjectsProjectSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Configuration\NetcodeForGameObjectsSettings.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkAnimatorParameterEntryDrawer.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkObjectEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\NetworkManagerHelper.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\HiddenScriptEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Analytics\NetcodeAnalytics.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Library\PackageCache\com.unity.netcode.gameobjects@c690afa8ab6e\Editor\Unity.Netcode.Editor.asmdef" />
+    <None Include="Library\PackageCache\com.unity.netcode.gameobjects@60c1d83693e8\Editor\Unity.Netcode.Editor.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -608,6 +607,10 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@191c0d7e3b69\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0\Runtime\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">

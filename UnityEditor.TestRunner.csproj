@@ -119,8 +119,8 @@
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\Api\ITestRunnerApi.cs" />
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\TestLaunchers\Helpers\PrebuildSetupAttributeFinder.cs" />
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\TestLaunchers\RemotePlayerLogController.cs" />
-    <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\TestRunner\EditModePCHelper.cs" />
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\IPlatformSetup.cs" />
+    <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\TestRunner\EditModePCHelper.cs" />
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\UnityTestProtocol\TestState.cs" />
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\UnityTestProtocol\Messages\EditorVersionMessage.cs" />
     <Compile Include="Library\PackageCache\com.unity.test-framework@5ac417e07314\UnityEditor.TestRunner\CommandLineTest\SettingsBuilder.cs" />
