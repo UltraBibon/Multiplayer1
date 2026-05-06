@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.Editor.CodeGen</RootNamespace>
-    <ProjectGuid>{522044C0-0AD2-2044-BEB8-FD562360ED9C}</ProjectGuid>
+    <ProjectGuid>{973AED40-4923-B2C7-103F-5D944E9270EE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Editor.CodeGen</AssemblyName>
@@ -1097,11 +1097,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B986FA4C-6E06-7204-C45A-E1A7C2619162}</Project>
+      <Project>{175315CC-8011-54DB-C8F5-9FD0034DE1F2}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{251048C1-DB49-53EE-475B-E59A6511630C}</Project>
+      <Project>{8961F207-3E2C-C460-0AAD-EA21B44CD8EA}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
   </ItemGroup>

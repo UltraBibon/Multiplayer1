@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E498EF49-6CAC-2F7B-F134-5E9FEF5101A2}</ProjectGuid>
+    <ProjectGuid>{66FDAD69-FBE0-023A-2666-D7D4A5BD68EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Networking.Editor</AssemblyName>
@@ -1122,11 +1122,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{844CAB51-3777-30B5-8B95-89D782DCE398}</Project>
+      <Project>{3FB4A97A-3AF9-7F02-75F6-25F505107956}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{DBBDAC6E-B0E7-A0A3-17F7-AF79AFEDFABD}</Project>
+      <Project>{18F975BA-5AA9-E596-FA20-B2F9E88844BA}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.NetworkSimulator.Runtime</RootNamespace>
-    <ProjectGuid>{CA399D66-FDD7-E378-E1F5-912E19A2F0B1}</ProjectGuid>
+    <ProjectGuid>{A8371218-278D-C16E-ECCC-B5B5BE13206D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.NetworkSimulator.Runtime</AssemblyName>
@@ -1078,15 +1078,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.csproj">
-      <Project>{DA5BE679-5477-03C1-8D46-ABC244D1AFBA}</Project>
+      <Project>{43EA9088-5E33-6A7F-0A52-480C579AD318}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.Utp2.csproj">
-      <Project>{D1782247-B19C-964D-8DAF-2B8B0AB55DBE}</Project>
+      <Project>{F2FAD275-61EC-D430-5197-3339693F29A8}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters.Utp2</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
-      <Project>{52B769D4-C468-E071-7799-E39D7DECE9DE}</Project>
+      <Project>{018B18C9-2D34-EC2E-84E4-983BBD06E82D}</Project>
       <Name>Unity.Multiplayer.Tools.Common</Name>
     </ProjectReference>
   </ItemGroup>

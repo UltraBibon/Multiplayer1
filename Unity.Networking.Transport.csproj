@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{67394775-72C1-CE42-DAAC-A3B35AE56B10}</ProjectGuid>
+    <ProjectGuid>{3C001529-5354-73EB-865C-1E0814E82DAB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Networking.Transport</AssemblyName>
@@ -1186,15 +1186,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{550FF064-B0F2-1FF7-A84E-DE7BC7DC9D6D}</Project>
+      <Project>{C85B1059-EBC8-B8E3-D63A-9900380AC7CA}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{251048C1-DB49-53EE-475B-E59A6511630C}</Project>
+      <Project>{8961F207-3E2C-C460-0AAD-EA21B44CD8EA}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{85F8F0C8-98E7-711E-DE1B-A823859E3C15}</Project>
+      <Project>{D0844DB1-4FFE-8BF5-5680-68AED280D728}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
   </ItemGroup>

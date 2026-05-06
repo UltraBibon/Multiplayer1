@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.Editor</RootNamespace>
-    <ProjectGuid>{C0432192-F3EC-1B05-E256-8C4641826552}</ProjectGuid>
+    <ProjectGuid>{78C78F16-A5B8-695C-3CE0-CB3530172B07}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Editor</AssemblyName>
@@ -1140,19 +1140,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B986FA4C-6E06-7204-C45A-E1A7C2619162}</Project>
+      <Project>{175315CC-8011-54DB-C8F5-9FD0034DE1F2}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Networking.Transport.csproj">
-      <Project>{67394775-72C1-CE42-DAAC-A3B35AE56B10}</Project>
+      <Project>{3C001529-5354-73EB-865C-1E0814E82DAB}</Project>
       <Name>Unity.Networking.Transport</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{844CAB51-3777-30B5-8B95-89D782DCE398}</Project>
+      <Project>{3FB4A97A-3AF9-7F02-75F6-25F505107956}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{DBBDAC6E-B0E7-A0A3-17F7-AF79AFEDFABD}</Project>
+      <Project>{18F975BA-5AA9-E596-FA20-B2F9E88844BA}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

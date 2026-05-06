@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.Adapters.Ngo1</RootNamespace>
-    <ProjectGuid>{D0E895A7-4E47-607D-91CC-2C364032CE4A}</ProjectGuid>
+    <ProjectGuid>{81E451FC-8EE9-6232-AEFB-84A9CA30B7F0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.Adapters.Ngo1</AssemblyName>
@@ -1062,27 +1062,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.csproj">
-      <Project>{DA5BE679-5477-03C1-8D46-ABC244D1AFBA}</Project>
+      <Project>{43EA9088-5E33-6A7F-0A52-480C579AD318}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
-      <Project>{52B769D4-C468-E071-7799-E39D7DECE9DE}</Project>
+      <Project>{018B18C9-2D34-EC2E-84E4-983BBD06E82D}</Project>
       <Name>Unity.Multiplayer.Tools.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricEvents.csproj">
-      <Project>{4E9AED08-0185-6174-64BE-E0C565871729}</Project>
+      <Project>{7032179C-2718-3CD1-012A-5E97385C5EDF}</Project>
       <Name>Unity.Multiplayer.Tools.MetricEvents</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
-      <Project>{22D70F7B-12A7-58FE-8CEB-F0CCCA850F3E}</Project>
+      <Project>{E87FC063-C434-7FFB-235E-6FD74F28D177}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{30E26C3E-E7BF-2538-DA07-54FB2E299BD2}</Project>
+      <Project>{5D24912C-5C0E-03AE-5BEF-7BC09A1DC469}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B986FA4C-6E06-7204-C45A-E1A7C2619162}</Project>
+      <Project>{175315CC-8011-54DB-C8F5-9FD0034DE1F2}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

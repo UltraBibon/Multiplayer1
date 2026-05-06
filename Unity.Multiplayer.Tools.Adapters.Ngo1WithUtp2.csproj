@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.Adapters.NgoWithUtp2</RootNamespace>
-    <ProjectGuid>{81016729-92D3-809C-38AD-34214C6E6573}</ProjectGuid>
+    <ProjectGuid>{540B2ACB-A5CF-F445-AD1B-0942664BE718}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.Adapters.Ngo1WithUtp2</AssemblyName>
@@ -1059,19 +1059,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.csproj">
-      <Project>{DA5BE679-5477-03C1-8D46-ABC244D1AFBA}</Project>
+      <Project>{43EA9088-5E33-6A7F-0A52-480C579AD318}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Networking.Transport.csproj">
-      <Project>{67394775-72C1-CE42-DAAC-A3B35AE56B10}</Project>
+      <Project>{3C001529-5354-73EB-865C-1E0814E82DAB}</Project>
       <Name>Unity.Networking.Transport</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B986FA4C-6E06-7204-C45A-E1A7C2619162}</Project>
+      <Project>{175315CC-8011-54DB-C8F5-9FD0034DE1F2}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.Utp2.csproj">
-      <Project>{D1782247-B19C-964D-8DAF-2B8B0AB55DBE}</Project>
+      <Project>{F2FAD275-61EC-D430-5197-3339693F29A8}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters.Utp2</Name>
     </ProjectReference>
   </ItemGroup>

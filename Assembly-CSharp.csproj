@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BEB56EB3-AA04-D51B-928A-1B3456624590}</ProjectGuid>
+    <ProjectGuid>{BA070900-BE4D-AFF9-623F-9D3FBD5C662C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -20,7 +20,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <NoWarn>0169;USG0001</NoWarn>
-    <DefineConstants>UNITY_6000_0_43;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_6000_0_43;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;FISHNET;FISHNET_V4;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -59,14 +59,18 @@
     <Analyzer Include="E:\UNITY\HMM\6000.0.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="E:\UNITY\HMM\6000.0.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="E:\UNITY\HMM\6000.0.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
+    <Analyzer Include="D:\Multiplayer1-practice_2\Assets\FishNet\Runtime\Plugins\CodeAnalysis\FishNet.CodeAnalysis.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\HealthPickup.cs" />
+    <Compile Include="Assets\FishNet\Upgrading\UpgradeFromMirrorMenu.cs" />
     <Compile Include="Assets\Scripts\DebugGUI.cs" />
     <Compile Include="Assets\Scripts\PlayerView.cs" />
+    <Compile Include="Assets\Scripts\TestAPI.cs" />
     <Compile Include="Assets\Scripts\PickupManager.cs" />
     <Compile Include="Assets\Scripts\PlayerCamera.cs" />
+    <Compile Include="Assets\FishNet\Upgrading\MirrorUpgrade.cs" />
     <Compile Include="Assets\PlayerActions.cs" />
     <Compile Include="Assets\Scripts\PlayerNetwork.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
@@ -81,6 +85,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\FishNet\LICENSE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
@@ -89,6 +94,7 @@
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\FishNet\DOCUMENTATION.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
@@ -572,6 +578,10 @@
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FishNet.CodeAnalysis">
+      <HintPath>Assets\FishNet\Runtime\Plugins\CodeAnalysis\FishNet.CodeAnalysis.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
@@ -1177,227 +1187,219 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.Editor.csproj">
-      <Project>{E2BE4D15-AD0A-8E65-5852-C4C6F0DB52A1}</Project>
+      <Project>{772DA7E4-260D-3E9D-4339-61104C734743}</Project>
       <Name>Unity.Multiplayer.Tools.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Editor.csproj">
-      <Project>{C04977B2-F2B2-CFD7-4B5B-09D18A4F34B2}</Project>
+      <Project>{7B7DCD31-6741-A840-36D6-C5129D202592}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.ForUI.csproj">
-      <Project>{C521861C-0EE4-542F-0A0C-10E2C5C831C2}</Project>
+      <Project>{BF3397E3-CDC0-3B34-B873-4CF0E27FD94D}</Project>
       <Name>Unity.InputSystem.ForUI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Searcher.Editor.csproj">
-      <Project>{7A886776-966F-9B80-752F-C2A91C8F9D35}</Project>
+      <Project>{9EB52E33-BAAD-836F-2E45-D2BEFBD52489}</Project>
       <Name>Unity.Searcher.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{63CEDD4A-1A3F-F9D2-8B2C-91CDAFE99167}</Project>
+      <Project>{A99EAD82-84D6-6148-31BF-C4B5CD7DDE19}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.DependencyInjection.UIElements.csproj">
-      <Project>{5EF241B1-9E13-BB24-575E-988D73EF49C0}</Project>
+      <Project>{6EA9F690-69E0-AAD1-8FD0-79476DD04EFC}</Project>
       <Name>Unity.Multiplayer.Tools.DependencyInjection.UIElements</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTestData.csproj">
-      <Project>{CD032431-324D-56DB-04B2-7D721DE4B97C}</Project>
+      <Project>{E0C41ED2-3996-0D8B-189E-0A4B834761E8}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTestData</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
-      <Project>{52B769D4-C468-E071-7799-E39D7DECE9DE}</Project>
+      <Project>{018B18C9-2D34-EC2E-84E4-983BBD06E82D}</Project>
       <Name>Unity.Multiplayer.Tools.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.csproj">
-      <Project>{AA85FE93-F665-FFE4-D308-C3CABEC517FA}</Project>
+      <Project>{78219032-5F44-D2A6-5EFA-164AC55EC151}</Project>
       <Name>Unity.AI.Navigation</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Networking.Editor.csproj">
-      <Project>{E498EF49-6CAC-2F7B-F134-5E9FEF5101A2}</Project>
-      <Name>Unity.Networking.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Netcode.Editor.csproj">
-      <Project>{C0432192-F3EC-1B05-E256-8C4641826552}</Project>
-      <Name>Unity.Netcode.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.csproj">
-      <Project>{5CCC8EFF-874D-CF5C-4444-E8F6DF40F305}</Project>
+      <Project>{36BB4A14-A140-5E0A-76B1-360AC10CACF9}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Implementation</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Component.csproj">
-      <Project>{271FF557-4827-FE7A-5AE1-0A6F9F137D75}</Project>
+      <Project>{F57B6F35-9074-5200-879B-308E72F2BA7F}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Component</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{D4BB4674-2E7E-7DB1-44A5-0D9C7E6F817B}</Project>
+      <Project>{CE82CE88-0058-A67F-B23C-B5908C5A4E77}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{A9D85D64-3183-2734-F9DA-99A3FDE41F3F}</Project>
+      <Project>{ADDE958D-EFDC-F14B-A567-975EA799B498}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{152FF636-F112-4594-E4BD-7D147B9E37D4}</Project>
+      <Project>{2B14E157-49B7-4C70-0682-0B1209BAE48B}</Project>
       <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{5B1A42E3-E783-368A-B063-646C22E9E480}</Project>
+      <Project>{961E730D-E713-E72D-E8B5-88F66951138E}</Project>
       <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{30E26C3E-E7BF-2538-DA07-54FB2E299BD2}</Project>
+      <Project>{5D24912C-5C0E-03AE-5BEF-7BC09A1DC469}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{B986FA4C-6E06-7204-C45A-E1A7C2619162}</Project>
-      <Name>Unity.Netcode.Runtime</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkProfiler.Runtime.csproj">
-      <Project>{EDF48F88-0EFA-4DA9-DBB5-F6AA7D2DBA56}</Project>
+      <Project>{AB5E3966-8DEA-77A9-1ADD-82B7249DC9B7}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkProfiler.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{251048C1-DB49-53EE-475B-E59A6511630C}</Project>
+      <Project>{8961F207-3E2C-C460-0AAD-EA21B44CD8EA}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetVis.Editor.UI.csproj">
-      <Project>{8C79E9FC-7D6A-5CCA-11F9-F3D534BA6490}</Project>
+      <Project>{4D097C81-F050-042E-B4EC-C31E26A5CFD1}</Project>
       <Name>Unity.Multiplayer.Tools.NetVis.Editor.UI</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Multiplayer.Tools.NetworkSimulator.Runtime.csproj">
-      <Project>{CA399D66-FDD7-E378-E1F5-912E19A2F0B1}</Project>
-      <Name>Unity.Multiplayer.Tools.NetworkSimulator.Runtime</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{16A66A29-4027-19BE-85F0-ADB6EB5F59E7}</Project>
+      <Project>{AE94C0D4-910A-73F6-F0C7-8A239015EBEE}</Project>
       <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="FishNet.Runtime.csproj">
+      <Project>{1738BC62-D2ED-4C4E-C021-C9913999645F}</Project>
+      <Name>FishNet.Runtime</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkProfiler.Editor.csproj">
-      <Project>{5D2F37FA-CF39-DF1C-BA89-0E073323267E}</Project>
+      <Project>{C3A32235-A6C8-6B90-DF0F-85D5462DEC18}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkProfiler.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.DependencyInjection.csproj">
-      <Project>{C94774FA-E1B0-877D-5F84-DE0502E4127B}</Project>
+      <Project>{0DBF0C3B-1447-DB38-886D-3588BD03D870}</Project>
       <Name>Unity.Multiplayer.Tools.DependencyInjection</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.csproj">
-      <Project>{9DA641AC-293E-B01B-D7E3-1E56998D70FD}</Project>
+      <Project>{FE818913-07E6-80F4-62DB-453471539CE0}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Configuration</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.Editor.csproj">
-      <Project>{635BB3E8-5D29-1BD2-ADD1-9C1AE8513E04}</Project>
+      <Project>{63C47473-F09D-1505-19C9-3167FC8289BB}</Project>
       <Name>Unity.Collections.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Profiling.Core.csproj">
-      <Project>{D8A21769-2303-0081-018D-811588567D7E}</Project>
+      <Project>{BB65462B-BB3D-FED3-6AE0-A3BB238025E5}</Project>
       <Name>Unity.Profiling.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
-      <Project>{675416DA-CCA7-B2FB-C710-C17C7AE9D9B9}</Project>
+      <Project>{CAE1DA45-A044-8899-3C59-2E7779C76C48}</Project>
       <Name>Unity.VisualScripting.Shared.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
-      <Project>{6503F65D-1CB1-8016-2293-AD1C758B8DBA}</Project>
+      <Project>{6FC7E07A-916C-3822-8090-E87083B2D9CA}</Project>
       <Name>Unity.VisualScripting.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
-      <Project>{68E8D9FA-5641-3D85-F29D-CBFBCC310624}</Project>
+      <Project>{D052C128-9E5E-47C4-0C99-6B06E42F71D6}</Project>
       <Name>Unity.AI.Navigation.Updater</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Multiplayer.Tools.NetworkSimulator.Editor.csproj">
-      <Project>{0797E660-0F0D-59AB-DAB1-A9F83CC534CE}</Project>
-      <Name>Unity.Multiplayer.Tools.NetworkSimulator.Editor</Name>
+    <ProjectReference Include="FishNet.Codegen.Cecil.csproj">
+      <Project>{15D0B066-84FD-5162-9A8B-1EF020C05CE0}</Project>
+      <Name>FishNet.Codegen.Cecil</Name>
+    </ProjectReference>
+    <ProjectReference Include="FishNet.Demos.csproj">
+      <Project>{DE98C129-8C71-87BC-60A0-DFA83E6F2E42}</Project>
+      <Name>FishNet.Demos</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
-      <Project>{3FB62275-81F6-6696-D17C-B6F2D0F3BAA4}</Project>
+      <Project>{1B959A4A-0CA4-3DD5-F884-60C75F3EF070}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Netcode.PackageChecker.Editor.csproj">
-      <Project>{55C42D49-5542-0D03-ED10-A6AE239B70A4}</Project>
-      <Name>Unity.Netcode.PackageChecker.Editor</Name>
+    <ProjectReference Include="GameKit.Dependencies.csproj">
+      <Project>{B21BF21D-5D96-6B4C-E826-F7F59BC58206}</Project>
+      <Name>GameKit.Dependencies</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
-      <Project>{6602C748-7CE4-960B-A6C0-47EA68C220DE}</Project>
+      <Project>{02960003-9E70-D802-EFC6-BF47A8043642}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.csproj">
-      <Project>{DA5BE679-5477-03C1-8D46-ABC244D1AFBA}</Project>
+      <Project>{43EA9088-5E33-6A7F-0A52-480C579AD318}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
-      <Project>{2FC72768-26EC-EDC2-C091-C162B21B8C38}</Project>
+      <Project>{DE870FEA-D0A0-C0CD-5861-80A527BC2BA6}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
-      <Project>{80C687D4-1BDB-F5CA-81A4-38864367B6CB}</Project>
+      <Project>{F0D7C245-0F1B-22EF-2BE9-DA155894B70A}</Project>
       <Name>Unity.AI.Navigation.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{85F8F0C8-98E7-711E-DE1B-A823859E3C15}</Project>
+      <Project>{D0844DB1-4FFE-8BF5-5680-68AED280D728}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Networking.Transport.csproj">
-      <Project>{67394775-72C1-CE42-DAAC-A3B35AE56B10}</Project>
-      <Name>Unity.Networking.Transport</Name>
-    </ProjectReference>
     <ProjectReference Include="com.unity.multiplayer.tools.window.csproj">
-      <Project>{0184506E-AA34-B552-A47E-7D64C0B216EB}</Project>
+      <Project>{55ACB045-50FE-EB74-12E9-0D37B81E40D5}</Project>
       <Name>com.unity.multiplayer.tools.window</Name>
     </ProjectReference>
+    <ProjectReference Include="SynapseSocket.csproj">
+      <Project>{4F2C1C49-3C92-9F28-3299-AA8CEC7B202B}</Project>
+      <Name>SynapseSocket</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetVis.Editor.Visualization.csproj">
-      <Project>{4A84B862-9BD5-BF34-783F-6D2B717A0A7B}</Project>
+      <Project>{06BDEA2E-B32B-B248-4F9D-24E44E55A1B2}</Project>
       <Name>Unity.Multiplayer.Tools.NetVis.Editor.Visualization</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
-      <Project>{F68CDF70-9249-4E35-E9AB-3704DEA1BF9E}</Project>
+      <Project>{3765B826-592D-C546-944D-977AD38F3FA0}</Project>
       <Name>Unity.VisualScripting.State</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetVis.Configuration.csproj">
-      <Project>{340595E2-4DBF-A5BF-73DD-26DCDD4E4503}</Project>
+      <Project>{8A9F38A3-6065-0BD1-6145-A36ADA247A6E}</Project>
       <Name>Unity.Multiplayer.Tools.NetVis.Configuration</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Editor.ConversionSystem.csproj">
-      <Project>{8BA1CD79-5E1B-B5CB-25EA-3E365A015081}</Project>
+      <Project>{38789177-03DD-05B3-898E-E41E8756EDED}</Project>
       <Name>Unity.AI.Navigation.Editor.ConversionSystem</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsReporting.csproj">
-      <Project>{CDF87101-1FEE-360F-7714-A0C7C4FB83EF}</Project>
+      <Project>{C3D18147-1848-4705-F484-891C0905B26C}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsReporting</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{D937994D-F1A5-D489-2253-8EB2899862AA}</Project>
+      <Project>{268EDC7E-550E-EB5A-DB0C-3F8F04FBCB9D}</Project>
       <Name>Unity.Burst.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{550FF064-B0F2-1FF7-A84E-DE7BC7DC9D6D}</Project>
+      <Project>{C85B1059-EBC8-B8E3-D63A-9900380AC7CA}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{B6BCF12D-EDB3-9C5C-A134-976A2138D1E0}</Project>
+      <Project>{4004B00A-94D5-E5B1-D8FC-DF249F55354D}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Initialization.csproj">
-      <Project>{AC3A6112-336A-A87A-2D4C-D1644B4D0599}</Project>
+      <Project>{5DB3FAB5-F69A-92D2-3480-9562154020EF}</Project>
       <Name>Unity.Multiplayer.Tools.Initialization</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
-      <Project>{22D70F7B-12A7-58FE-8CEB-F0CCCA850F3E}</Project>
+      <Project>{E87FC063-C434-7FFB-235E-6FD74F28D177}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkSolutionInterface.csproj">
-      <Project>{91092646-C4CF-FBA7-DCA7-BB193E578715}</Project>
+      <Project>{1B5CCDA9-2339-B467-B230-DC92CA68A60E}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkSolutionInterface</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{A31FD76A-A9A5-C9DA-5EAB-696312C253BB}</Project>
+      <Project>{28C7C812-45BC-76BB-2B5D-1BFF81ABBFA5}</Project>
       <Name>Unity.VisualScripting.Flow</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricEvents.csproj">
-      <Project>{4E9AED08-0185-6174-64BE-E0C565871729}</Project>
+      <Project>{7032179C-2718-3CD1-012A-5E97385C5EDF}</Project>
       <Name>Unity.Multiplayer.Tools.MetricEvents</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{2DEA8EB3-35C7-D73C-D8D6-C970182D0843}</Project>
+      <Project>{23330E66-8F41-88EC-43A7-3B681D299048}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
   </ItemGroup>

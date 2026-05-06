@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode</RootNamespace>
-    <ProjectGuid>{B986FA4C-6E06-7204-C45A-E1A7C2619162}</ProjectGuid>
+    <ProjectGuid>{175315CC-8011-54DB-C8F5-9FD0034DE1F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Runtime</AssemblyName>
@@ -1276,35 +1276,35 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
-      <Project>{22D70F7B-12A7-58FE-8CEB-F0CCCA850F3E}</Project>
+      <Project>{E87FC063-C434-7FFB-235E-6FD74F28D177}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{30E26C3E-E7BF-2538-DA07-54FB2E299BD2}</Project>
+      <Project>{5D24912C-5C0E-03AE-5BEF-7BC09A1DC469}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsReporting.csproj">
-      <Project>{CDF87101-1FEE-360F-7714-A0C7C4FB83EF}</Project>
+      <Project>{C3D18147-1848-4705-F484-891C0905B26C}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsReporting</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkSolutionInterface.csproj">
-      <Project>{91092646-C4CF-FBA7-DCA7-BB193E578715}</Project>
+      <Project>{1B5CCDA9-2339-B467-B230-DC92CA68A60E}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkSolutionInterface</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Networking.Transport.csproj">
-      <Project>{67394775-72C1-CE42-DAAC-A3B35AE56B10}</Project>
+      <Project>{3C001529-5354-73EB-865C-1E0814E82DAB}</Project>
       <Name>Unity.Networking.Transport</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{251048C1-DB49-53EE-475B-E59A6511630C}</Project>
+      <Project>{8961F207-3E2C-C460-0AAD-EA21B44CD8EA}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{550FF064-B0F2-1FF7-A84E-DE7BC7DC9D6D}</Project>
+      <Project>{C85B1059-EBC8-B8E3-D63A-9900380AC7CA}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{85F8F0C8-98E7-711E-DE1B-A823859E3C15}</Project>
+      <Project>{D0844DB1-4FFE-8BF5-5680-68AED280D728}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.Editor.PackageChecker</RootNamespace>
-    <ProjectGuid>{55C42D49-5542-0D03-ED10-A6AE239B70A4}</ProjectGuid>
+    <ProjectGuid>{8BB41DAF-F5BE-B450-C5AD-AF2F1C991718}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.PackageChecker.Editor</AssemblyName>
@@ -1122,11 +1122,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{844CAB51-3777-30B5-8B95-89D782DCE398}</Project>
+      <Project>{3FB4A97A-3AF9-7F02-75F6-25F505107956}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{DBBDAC6E-B0E7-A0A3-17F7-AF79AFEDFABD}</Project>
+      <Project>{18F975BA-5AA9-E596-FA20-B2F9E88844BA}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
